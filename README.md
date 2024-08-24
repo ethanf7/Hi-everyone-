@@ -1,1 +1,1 @@
-# Hi everyone!
+printf("Hi everyone!/n")
